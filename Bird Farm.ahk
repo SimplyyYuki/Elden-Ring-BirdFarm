@@ -85,3 +85,14 @@ F10::  ; Stop active scripts
  Reload
  Return
 }
+
+# ------------------------------------------------------------------
+# Copyright (c) 2026 SimplyyYuki (GitHub: https://github.com/SimplyyYuki)
+# All rights reserved.
+#
+# This code is the original work of SimplyyYuki. It may not be
+# redistributed, republished, or passed off as the work of anyone
+# else. It may not be sold, or distributed or used under any paid or
+# commercial name, product, or service, without prior written
+# permission from the author.
+# ------------------------------------------------------------------
