@@ -57,6 +57,7 @@ This is an **AutoHotkey macro** that automates a rune farming method in **Elden 
 4. Equip the **Long Bow** (with Rain of Arrows) and the **Arrow's Reach Talisman**
 5. Go to the **Palace Approach Ledge-Road Grace** in Mohgwyn Palace
 6. Run the macro script with **F9** and start farming
+7. Stop the macro with **F10**
 
 ---
 
