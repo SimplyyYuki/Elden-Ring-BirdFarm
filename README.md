@@ -1,11 +1,10 @@
 # Elden-Ring-BirdFarm
 <div align="center">
 
-# 🏹 Elden Ring Rune Farm Macro
+#  Elden Ring Rune Farm Macro
 ### Automated rune farming at the Palace Approach Ledge-Road
 
 ![AutoHotkey](https://img.shields.io/badge/Made%20with-AutoHotkey-green?style=for-the-badge&logo=autohotkey)
-![Game](https://img.shields.io/badge/Game-Elden%20Ring-gold?style=for-the-badge)
 ![Author](https://img.shields.io/badge/Author-SimplyyYuki-blue?style=for-the-badge)
 
 </div>
@@ -18,14 +17,14 @@ This is an **AutoHotkey macro** that automates a rune farming method in **Elden 
 
 ---
 
-## 🎒 Requirements
+##  Requirements
 
 | Item | Details |
 |------|---------|
-| 🏹 **Long Bow** | Must have the **Rain of Arrows** Ash of War equipped |
-| 💍 **Arrow's Reach Talisman** | Required for the farm to work |
-| 🪙 **Golden Scarab** *(recommended)* | Increases the runes you gain |
-| 🖥️ **AutoHotkey** | Needed to run the macro |
+|  **Long Bow** | Must have the **Rain of Arrows** Ash of War equipped |
+|  **Arrow's Reach Talisman** | Required for the farm to work |
+| **Golden Scarab** *(recommended)* | Increases the runes you gain |
+|  **AutoHotkey** | Needed to run the macro |
 
 ---
 
@@ -50,7 +49,7 @@ This is an **AutoHotkey macro** that automates a rune farming method in **Elden 
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Install **[AutoHotkey](https://www.autohotkey.com/)**
 2. Download this repository
@@ -67,7 +66,7 @@ This macro is for **personal use**. Using macros may go against the game's terms
 
 ---
 
-## 🙏 Credits
+##  Credits
 
 - **Macro by:** [SimplyyYuki](https://github.com/SimplyyYuki)
 - **Built with:** [AutoHotkey](https://www.autohotkey.com/)
@@ -75,7 +74,7 @@ This macro is for **personal use**. Using macros may go against the game's terms
 
 ---
 
-## 📜 License
+## License
 
 **Copyright (c) 2026 SimplyyYuki. All rights reserved.**
 
@@ -83,6 +82,6 @@ This code is my original work. It may not be redistributed, republished, or pass
 
 <div align="center">
 
-⭐ If this helped you, consider leaving a star! ⭐
+If this helped you, consider leaving a star
 
 </div>
