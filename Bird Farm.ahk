@@ -36,7 +36,11 @@
    Send "{j down}"  ; Rotate character toward cliff
    Sleep 528     ; rotation amount
    Send "{j up}"
-    
+   
+   Send "{e down}" ; Pick up runes if character died previously
+   Sleep 50
+   Send "{e up}"
+
    Send "{w down}"  ; Walk toward cliff
    Sleep 1800    ; walk distance
    Send "{w up}"
