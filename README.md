@@ -2,7 +2,7 @@
 <div align="center">
 
 #  Elden Ring Rune Farm Macro
-### Automated rune farming at the Palace Approach Ledge-Road utilizing the Bird Enemy
+### Automated rune farming at the Palace Approach Ledge-Road Grace utilizing the Bird Enemy
 
 ![AutoHotkey](https://img.shields.io/badge/Made%20with-AutoHotkey-green?style=for-the-badge&logo=autohotkey)
 ![Author](https://img.shields.io/badge/Author-SimplyyYuki-blue?style=for-the-badge)
