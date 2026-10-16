@@ -14,6 +14,7 @@
 ## 📖 About
 
 This is an **AutoHotkey macro** that automates a rune farming method in **Elden Ring**. It runs the farm at the **Palace Approach Ledge-Road** in **Mohgwyn**, using the **big bird** on the ledge as the rune source. Set it up, start the macro, and let it farm.
+
 The Macro is NOT 100% fail-safe, it sometimes focuses on the Wrong enemy and destroys the whole algorhythm, altough falling down is not a issue the Macro picks up lost runes but ONLY if the Player fell down the ledge.
 
 ---
