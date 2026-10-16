@@ -85,6 +85,6 @@ This code is my original work. It may not be redistributed, republished, or pass
 
 <div align="center">
 
-If this helped you, consider leaving a star
+If this helped you, consider leaving a star <3
 
 </div>
